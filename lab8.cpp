@@ -55,3 +55,4 @@ myinit();
 glutMainLoop();
 return 0;
 }
+gcc lab8.cpp -lglut -lGL -lGLUT
